@@ -64,7 +64,7 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<plugins>
+		<!-- <plugins>
 			<plugin>
 				<artifactId>maven-war-plugin</artifactId>
 				<version>3.2.3</version>
@@ -76,6 +76,6 @@
 					<release>16</release>
 				</configuration>
 			</plugin>
-		</plugins>
+		</plugins>-->
 	</build>
 </project>
